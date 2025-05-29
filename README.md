@@ -8,7 +8,7 @@ Phone: 815-603-9845
 
 ## About Me
 
-I am a Cloud Engineer with 2+ years of experience specializing in cloud infrastructure design, implementation, and optimization, primarily within Kubernetes, AWS, and Azure. I focus on building scalable, reliable data pipelines, managing cloud infrastructure, and ensuring high data integrity. My expertise includes Azure SQL database migrations, automating CI/CD pipelines, and developing cloud-native applications. I have a strong background in data science and database management with a passion for continuous learning and enhancing system performance.
+I am a Cloud Engineer with 3+ years of experience specializing in cloud infrastructure design, implementation, and optimization, primarily within Kubernetes, AWS, and Azure. I focus on building scalable, reliable data pipelines, managing cloud infrastructure, and ensuring high data integrity. My expertise includes Azure SQL database migrations, automating CI/CD pipelines, and developing cloud-native applications. I have a strong background in data science and database management with a passion for continuous learning and enhancing system performance.
 
 ## Projects
 

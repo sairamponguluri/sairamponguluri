@@ -1,48 +1,80 @@
 # SAIRAM PONGULURI
-Cloud Engineer | Data Science Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com/in/sairam-ponguluri-b294211ba)  
-Email: pongulurisairam@gmail.com  
-Phone: 815-603-9845
+Cloud Infra Engineer | SRE  
+[LinkedIn Profile](https://www.linkedin.com/in/sairam-ponguluri)  
+Email: ponguluriramram@gmail.com  
+Phone: 779-390-1555
 
 ---
 
-## About Me
+# 👋 Hi, I'm Sairam Ponguluri
 
-I am a Cloud Engineer with 3+ years of experience specializing in cloud infrastructure design, implementation, and optimization, primarily within Kubernetes, AWS, and Azure. I focus on building scalable, reliable data pipelines, managing cloud infrastructure, and ensuring high data integrity. My expertise includes Azure SQL database migrations, automating CI/CD pipelines, and developing cloud-native applications. I have a strong background in data science and database management with a passion for continuous learning and enhancing system performance.
+Cloud Infra Engineer | Builder of InfraLite, Spantum, Invyu, Expantr  
+Passionate about building developer-first infra tools, simplifying cloud automation, and making ephemeral environments work like magic.  
 
-## Projects
+- 🌩️ 4+ years in cloud engineering (Kubernetes, AWS, Azure, Terraform, CI/CD)
+- 🧠 M.S. in Data Science — but I'm more interested in how things *run* than just analyzing them
+- 🛠️ I build tools that reduce friction, preserve context, and scale dev velocity
 
-### SQL Database Migration to Azure
-- Led the migration of SQL databases to Azure, automating processes with PowerShell and Azure Database Migration Service (DMA).
-- Ensured data integrity, minimized downtime, and improved migration efficiency by 40%.
+---
 
-### BookPublisherDistributionDB Analytics Platform
-- Developed a scalable data pipeline and analytics platform for a book publishing company using Azure Data Factory and SSIS.
-- Integrated machine learning models via AWS SageMaker and implemented dashboards in Tableau and Power BI for real-time data insights.
+## 🔧 Projects I'm Actively Working On
 
-## Skills
+### 🚀 [InfraLite](https://github.com/infralite)  
+*Lightweight backend infra engine for indie devs and small teams.*  
+Features zero-config security, AI-aided automation, and instant deployment.
 
-- **Programming Languages**: Python, SQL  
-- **Cloud Technologies**: AWS (EC2, S3, ELB, DynamoDB), Azure (SQL Database Migration, Data Factory, SSIS)  
-- **Containers & Orchestration**: Kubernetes, Docker, Azure Kubernetes Services, Azure Arc  
-- **Databases**: SQL Server, MySQL, MongoDB, Cassandra, PL/SQL  
-- **Automation & CI/CD**: Jenkins, Terraform, GitHub, PowerShell scripting  
-- **Data Engineering Tools**: Azure Data Factory, AWS Glue, SSIS  
-- **Data Visualization**: Tableau, Power BI  
-- **Operating Systems**: Windows, Linux
+- Built with FastAPI, Docker, Terraform, Caddy, and deployed on AWS EC2  
+- Includes modular microtools like `prompt-planner`, `vercel-deployer`, and `infra-rewind`  
+- SSL Grade A secured with automated HTTPS
 
-## Education
+> "Infra shouldn’t be invisible — but it should be effortless."
 
-**Master’s in Data Science**  
-Lewis University, Mar 2022 – Dec 2023  
-GPA: 3.45/4.0
+---
 
-**Bachelor’s in Mechanical Engineering**  
-Amrita Sai Institute of Science & Technology, 2016 - 2020
+### 🧠 [Spantum](https://github.com/spantum) *(Coming Soon)*  
+*Persistent memory + automation layer for dev workflows.*  
+Think of it as your project’s second brain: it tracks, recalls, and evolves with your tools and flow.
 
-## Contact Me
+- Local-first, privacy-respecting memory kernel
+- Tracks actions, generates documentation, and helps explain systems even post-launch
 
-Feel free to reach out for collaboration, project discussions, or networking!
+---
 
-- **Email**: pongulurisairam@gmail.com  
-- **LinkedIn**: [Sairam Ponguluri](https://www.linkedin.com/in/sairam-ponguluri-b294211ba)  
+### 📦 BookPublisherDistributionDB Analytics  
+*Built an end-to-end data analytics platform for a book publishing company.*
+
+- SQL Server → Azure migration with DMA  
+- Automated pipelines via Azure Data Factory and SSIS  
+- Real-time dashboards in Power BI, ML model integration via SageMaker
+
+---
+
+### 🌍 [Expantr](https://github.com/expantr) *(Private for now)*  
+*Tool to help early-stage projects define vision, scale team onboarding, and ship docs post-launch.*
+
+---
+
+### 🎥 [Invyu](https://github.com/silentinfra/invyu) *(WIP)*  
+*Video + debug + feedback visualizer for solo devs.*  
+Captures intent, not just code — helps you and your users understand what’s being built and why.
+
+---
+
+## 📚 Background
+
+- 🎓 Master’s in Data Science – Lewis University  
+- 💻 Ex: SQL Server Migration | Data Engineering | DevOps Automation  
+- 🔁 Obsessed with making infra less fragile, more human-friendly
+
+---
+
+## 📬 Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/sairam-ponguluri](https://www.linkedin.com/in/sairam-ponguluri)  
+- **Email**: ponguluriram@gmail.com  
+
+
+---
+
+> "Nowadays, what’s easy is automated, what’s hard is now easy, and what’s impossible is the new hard."  
+> — One of my favorite thoughts while building 🛠️

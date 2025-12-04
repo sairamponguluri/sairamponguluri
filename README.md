@@ -1,17 +1,17 @@
 # SAIRAM PONGULURI
 Cloud Infra Engineer | SRE  
 [LinkedIn Profile](https://www.linkedin.com/in/sairam-ponguluri)  
-Email: ponguluriramram@gmail.com  
-Phone: 779-390-1555
+Email: pongulurisairam@gmail.com  
+Phone: 815-603-9845
 
 ---
 
 #  Hi, I'm Sairam Ponguluri
 
-Cloud Infra Engineer | Builder of InfraLite, Spantum, Invyu, Expantr  
+Software Developement Engineer/Cloud Infra Engineer | Builder of InfraLite, Spantum, Invyu, Expantr  
 Passionate about building developer-first infra tools, simplifying cloud automation, and making ephemeral environments work like magic.  
 
--  4+ years in cloud engineering (Kubernetes, AWS, Azure, Terraform, CI/CD)
+-  5+ years in cloud engineering (Kubernetes, AWS, Azure, Terraform, CI/CD)
 -  M.S. in Data Science — but I'm more interested in how things *run* than just analyzing them
 -  I build tools that reduce friction, preserve context, and scale dev velocity
 
@@ -71,7 +71,7 @@ Captures intent, not just code — helps you and your users understand what’s 
 ##  Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/sairam-ponguluri](https://www.linkedin.com/in/sairam-ponguluri)  
-- **Email**: ponguluriram@gmail.com  
+- **Email**: pongulurisairam@gmail.com  
 - **X**: @sairmpg
 - 
 
